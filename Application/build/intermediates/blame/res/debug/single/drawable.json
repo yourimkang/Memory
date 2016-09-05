@@ -120,6 +120,10 @@
         "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/src/main/res/drawable/neptune.jpg"
     },
     {
+        "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/suzy.jpg",
+        "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/src/main/res/drawable/suzy.jpg"
+    },
+    {
         "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
@@ -144,6 +148,10 @@
         "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/src/main/res/drawable/jupiter.jpg"
     },
     {
+        "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mark_.jpg",
+        "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mark_.jpg"
+    },
+    {
         "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
@@ -154,5 +162,9 @@
     {
         "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mark.jpg",
+        "source": "/Users/appcreator16/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mark.jpg"
     }
 ]
