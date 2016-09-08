@@ -1,43 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
+    abi="x86_64"
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="8242515100303"
+    timestamp="1692295453038"
     token="-6661300808593231396" >
 
     <task
         name="javac"
-        duration="667" />
+        duration="967" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="78" />
+        duration="233" />
     <task
         name="verifier"
-        duration="65" />
+        duration="19" />
 
     <artifact
-        location="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
+        location="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="7674334249652" >
+    <build timestamp="1692295453038" >
         <artifact
             location="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="8057116528568" >
-        <artifact
-            location="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="8242515100303" >
-        <artifact
-            location="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
