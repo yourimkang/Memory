@@ -250,8 +250,7 @@ public class NavigationDrawerActivity extends Activity implements PlanetAdapter.
 
             iv=((ImageView) rootView.findViewById(R.id.image));
             iv.setOnClickListener(m_nda);
-            iv.setImageResource(imageId);
-
+            //iv.setImageResource(R.id.image);
 
             return rootView;
         }

@@ -54,7 +54,7 @@
         jar="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="404b3042b5a55c57d121f0d16e5ca4028ec806ca">
+        sha1="3f7f455e62f664480368a3161e6d31f86fdc9f6b">
         <dex dex="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a89579c06f6e39f98b1d58288835e7a7de886a62/classes.dex" />
     </item>
     <item
@@ -82,7 +82,7 @@
         jar="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="54679f150a787e97f2d7fadc39de3b1f03812dcf">
+        sha1="f8434eb88be5df4a82a16ab15bfed2b183c187b2">
         <dex dex="/Users/appcreator16/AndroidStudioProjects/Memory/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abf3609e2a40cbacf9305315b5a7464bbf42afdc/classes.dex" />
     </item>
 
